@@ -2,11 +2,12 @@ s# 100 Days Of Code - Log
 
 ### Day 4: January 9, 2022
 
-**Today's Progress**: I've OOPed (kind of) the AoC code from yesterday, added comments, generally tidied up. I've also set up a new repo as the last one was a fork - I didn;t realise that won't show up in my Activity. I like green squares :-)
+**Today's Progress**: I've OOPed (kind of) the AoC code from yesterday, added comments, generally tidied up. I've also set up a new repo as the last one was a fork - I didn't realise that won't show up in my Activity. I like green squares :-)
+I also moved the AoC code to a separate repo, even if I got muddled and now have a main and a master.
 
-**Thoughts**: I need to improve my tweets! state which day, and that I'm using Python.
+**Thoughts**: I need to improve my tweets! state which day, and that I'm using Python. I also can't keep saving my work in this repo - need to save it elsewhere. And I need to get better at using github.
 
-**Link to work:**  As yesterday
+**Link to work:**  As yesterday and also under a separate AoC repo.
 
 ### Day 3: January 8, 2022
 
