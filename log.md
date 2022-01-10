@@ -1,5 +1,13 @@
 s# 100 Days Of Code - Log
 
+### Day 5: January 10, 2022
+
+**Today's Progress**: I wrote a short bit of code counting down to the holidays - and I'm learning about how to email that to myself. Having trouble with gmail, though - I don't want to reduce my security on my main account and can't find a way past it.
+
+**Thoughts**: I'm frustrated, but I've asked for help on Reddit
+
+**Link to work:** https://github.com/GillianLaw/HolidayCountdown.git
+
 ### Day 4: January 9, 2022
 
 **Today's Progress**: I've OOPed (kind of) the AoC code from yesterday, added comments, generally tidied up. I've also set up a new repo as the last one was a fork - I didn't realise that won't show up in my Activity. I like green squares :-)
