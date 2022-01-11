@@ -1,8 +1,16 @@
 s# 100 Days Of Code - Log
 
+### Day 6: January 11, 2022
+
+**Today's Progress**: I worked out how to sort out the gmail settings. Reddit didn't have an answer, but someone's confusion over me question prompted me to find out! I can't get the code samples from RealPython to work - ModuleNotFoundError: No module named 'email.mime'; 'email' is not a package That sounds pretty definite! I'll try something else tomorrow - I'm really weary today.
+
+**Thoughts**: This is harder than I thought!
+
+**Link to work:** https://github.com/GillianLaw/HolidayCountdown.git
+
 ### Day 5: January 10, 2022
 
-**Today's Progress**: I wrote a short bit of code counting down to the holidays - and I'm learning about how to email that to myself. Having trouble with gmail, though - I don't want to reduce my security on my main account and can't find a way past it.
+**Today's Progress**: I wrote a short bit of code counting down to the holidays - and I'm learning about how to email that to myself. Having trouble with gmail, though - I don't want to reduce my s security on my main account and can't find a way past it.
 
 **Thoughts**: I'm frustrated, but I've asked for help on Reddit
 
