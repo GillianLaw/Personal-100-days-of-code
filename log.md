@@ -1,10 +1,21 @@
 s# 100 Days Of Code - Log
 
+
+### Day 7: January 12, 2022
+
+**Today's Progress**: Added the countdown timer to the email text. I've set it up as a recurring task on PythonAnywhere so I hope to get an email in the morning! Wow, hard to believe I've done that, I've wanted to set up a task for a while.
+
+**Thoughts**: That was pretty easy. Now to expand on it and make it better.
+
+**Link to work:** https://github.com/GillianLaw/HolidayCountdown.git
+
 ### Day 6: January 11, 2022
 
 **Today's Progress**: I worked out how to sort out the gmail settings. Reddit didn't have an answer, but someone's confusion over me question prompted me to find out! I can't get the code samples from RealPython to work - ModuleNotFoundError: No module named 'email.mime'; 'email' is not a package That sounds pretty definite! I'll try something else tomorrow - I'm really weary today.
 
-**Thoughts**: This is harder than I thought!
+LATER - solved!! Thanks to stack overflow. I had called the file 'email.py' and that was causing the issue. I copied and renamed it - but even having the old version there called email.py still cause the hiccup. Changed it - bingo, the email works!
+
+**Thoughts**: Yay! Thank heavens for stack overflow and someone else making the exact same mistake.
 
 **Link to work:** https://github.com/GillianLaw/HolidayCountdown.git
 
