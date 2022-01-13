@@ -1,5 +1,12 @@
 s# 100 Days Of Code - Log
 
+### Day 8: January 13, 2022
+
+**Today's Progress**: Learning about widgets and embedding in emails. It's not that easy... Oh, but my auto email works! Yippee!
+
+**Thoughts**: I need more time to focus. Now, I want a drink... dry January ends tonight. 
+
+**Link to work:** Not on github yet.
 
 ### Day 7: January 12, 2022
 
