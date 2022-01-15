@@ -1,12 +1,12 @@
 s# 100 Days Of Code - Log
 
-### Day 9: January 14, 2022
+### Day 10: January 15, 2022
 
-**Today's Progress**: Managed to extract data from Open Weather! Not without pain... having to learn to read JSON data. But I'm getting there.
+**Today's Progress**: Done! The email pulls the data from the OpenWeather API and displays it perfectly.
 
-**Thoughts**: Tomorrow I can add this to the email code 
+**Thoughts**: I had to learn to look through the JSON output
 
-**Link to work:** Not on github yet.
+**Link to work:** on github, but private
 
 ### Day 8: January 13, 2022
 
