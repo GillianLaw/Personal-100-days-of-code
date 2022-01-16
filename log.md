@@ -1,5 +1,13 @@
 s# 100 Days Of Code - Log
 
+### Day 11: January 16, 2022
+
+**Today's Progress**: I worked through the rest of the PythonAnywhere tutorial on hosting code in basic web pages, and I might even understand it :-) I'm going to try posting the three examples as separate pages now, just to get more of a handle on it.
+
+**Thoughts**: I'm not 100% sure I'd be able to adapt this to my own code yet, but maybe? I need to take it slowly. '
+
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com
+
 ### Day 10: January 15, 2022
 
 **Today's Progress**: Done! The email pulls the data from the OpenWeather API and displays it perfectly.
