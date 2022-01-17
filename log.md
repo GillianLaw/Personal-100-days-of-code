@@ -1,5 +1,13 @@
 s# 100 Days Of Code - Log
 
+### Day 12: January 17, 2022
+
+**Today's Progress**: I've posted the three examples as separate pages now, and they work. Now I need to create other pages, and use templates properly. The pages I previously created don't work anymore - I'll have to go back a step, work out how to link to the tmeplates for those.
+
+**Thoughts**: There are still big gaps in my understanding of what I'm doing here! 
+
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com
+
 ### Day 11: January 16, 2022
 
 **Today's Progress**: I worked through the rest of the PythonAnywhere tutorial on hosting code in basic web pages, and I might even understand it :-) I'm going to try posting the three examples as separate pages now, just to get more of a handle on it.
