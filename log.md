@@ -1,10 +1,17 @@
 s# 100 Days Of Code - Log
 
-### Day 12: January 17, 2022
+### Day 13: January 18, 2022
+
+**Today's Progress**: All pages are now working, after a fashion. Oh, except the database one.
+
+**Thoughts**: Flask is starting to make a vague sort of sense. Css, on the other hand...
+
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com
+
 
 **Today's Progress**: I've posted the three examples as separate pages now, and they work. Now I need to create other pages, and use templates properly. The pages I previously created don't work anymore - I'll have to go back a step, work out how to link to the tmeplates for those.
 
-**Thoughts**: There are still big gaps in my understanding of what I'm doing here! 
+**Thoughts**: There are still big gaps in my understanding of what I'm doing here!
 
 **Link to work:** http://gilliancodes.eu.pythonanywhere.com
 
