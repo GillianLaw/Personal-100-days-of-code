@@ -1,5 +1,15 @@
 s# 100 Days Of Code - Log
 
+### Day 14: January 19, 2022
+
+**Today's Progress**: I've added some code - a temp conversion - but I haven't learned what I want to learn! Surely I shouldn't have all the code in the main flask_app, but should put it in templates, somehow? I thought that was what I was going to learn. So - more to do.
+
+Oh, and I've upgraded my PythonAnywhere account! That feels like a positive step. And I set up a holiday counter auto email for Judy.
+
+**Thoughts**: Day 14! Wow. I didn't think I'd manage to code every day. I've learned a lot. And flipping github is doing my head in 
+
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com
+
 ### Day 13: January 18, 2022
 
 **Today's Progress**: All pages are now working, after a fashion. Oh, except the database one.
