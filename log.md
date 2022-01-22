@@ -1,5 +1,13 @@
 s# 100 Days Of Code - Log
 
+### Day 17: January 22, 2022
+
+**Today's Progress**: Advent of Code - I needed a break. This is still frustrating, but I know where I am with Python!
+
+**Thoughts**: Trying to do Day 4 of this year's, the bingo cards. Fiddly...
+
+**Link to work:** 
+
 ### Day 15: January 20, 2022
 
 **Today's Progress**: Flask, jinja, ma heid. I'm slowly learning more and more, but nothing that gets me what I want. So far....
