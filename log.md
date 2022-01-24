@@ -1,12 +1,20 @@
 s# 100 Days Of Code - Log
 
+### Day 18: January 24, 2022
+
+**Today's Progress**: Back to Python Anywhere! I just tried adding my password generator OOP code to the flask_app, trying to fit it to how other apps work. It didn't work out - and made the whole site display errors. Keep trying...
+
+**Thoughts**: It's been a tough week, lost a friend. But I'm still trying.
+
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com
+
 ### Day 17: January 22, 2022
 
 **Today's Progress**: Advent of Code - I needed a break. This is still frustrating, but I know where I am with Python!
 
 **Thoughts**: Trying to do Day 4 of this year's, the bingo cards. Fiddly...
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 15: January 20, 2022
 
