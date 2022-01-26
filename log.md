@@ -1,5 +1,14 @@
 s# 100 Days Of Code - Log
 
+### Day 19: January 26, 2022
+
+**Today's Progress**: PythonAnywhere got in touch to welcome me as a new paying customer - and I took the chance to ask about further resources that might get me past my current impasse...
+I've also been trying to do more on AoC and getting nowhere. It's a bit dispiriting!
+
+**Thoughts**: I'm keeping my self sane, just.
+
+**Link to work:**  Nothing.
+
 ### Day 18: January 24, 2022
 
 **Today's Progress**: Back to Python Anywhere! I just tried adding my password generator OOP code to the flask_app, trying to fit it to how other apps work. It didn't work out - and made the whole site display errors. Keep trying...
