@@ -1,6 +1,13 @@
 s# 100 Days Of Code - Log
 
-### Day 19: January 26, 2022
+### Day 20: January 27, 2022
+
+**Today's Progress**: Started a regex course. I've done a bit in the past and liked it, so it's worth trying. I've also altered Judy's countdown, even though she hasn't even booked her trip to Marseille yet!
+
+**Thoughts**: Regex - we'll see. The guy's a bit dull. Oh, and I've found what looks like a good Flask course? Still waiting to hear from PythonAnywhere  
+
+**Link to work:**  Nothing useful!
+
 
 **Today's Progress**: PythonAnywhere got in touch to welcome me as a new paying customer - and I took the chance to ask about further resources that might get me past my current impasse...
 I've also been trying to do more on AoC and getting nowhere. It's a bit dispiriting!
