@@ -1,5 +1,15 @@
 s# 100 Days Of Code - Log
 
+
+### Day 21: January 28, 2022
+
+**Today's Progress**: Have I just had a breakthrough in understanding? I might have done! But I need more time to experiment than I have right now.
+
+**Thoughts**: PythonAnywhere came back with some genius, if fairly obvious advice - to look at source code. I mean, i have... btu trying again, and looking on github, I feel like maybe I understand more than I did? I have to give it a try. Maybe later, maybe tomorroww. 
+
+**Link to work:**  
+
+
 ### Day 20: January 27, 2022
 
 **Today's Progress**: Started a regex course. I've done a bit in the past and liked it, so it's worth trying. I've also altered Judy's countdown, even though she hasn't even booked her trip to Marseille yet!
