@@ -1,11 +1,18 @@
 s# 100 Days Of Code - Log
 
+### Day 22: January 29, 2022
+
+**Today's Progress**: Wow - I just got the input page of /sum working with html template. I can't get the response page to look right - I need to find examples of displaying results. But - good! A bit step forward.
+
+**Thoughts**: Listen to PythonAnywhere guys! I'm a bit amazed at what worked, and frustrated at what didn;t. But - cool.
+
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com/sum
 
 ### Day 21: January 28, 2022
 
 **Today's Progress**: Have I just had a breakthrough in understanding? I might have done! But I need more time to experiment than I have right now.
 
-**Thoughts**: PythonAnywhere came back with some genius, if fairly obvious advice - to look at source code. I mean, i have... btu trying again, and looking on github, I feel like maybe I understand more than I did? I have to give it a try. Maybe later, maybe tomorroww. 
+**Thoughts**: PythonAnywhere came back with some genius, if fairly obvious advice - to look at source code. I mean, i have... btu trying again, and looking on github, I feel like maybe I understand more than I did? I have to give it a try. Maybe later, maybe tomorroww.
 
 **Link to work:**  
 
