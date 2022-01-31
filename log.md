@@ -1,10 +1,18 @@
 s# 100 Days Of Code - Log
 
+### Day 24: January 31, 2022
+
+**Today's Progress**: Conversion page done. It should be easier but each one is hard! I set up a very basic base.html too - something to play with in future.
+
+**Thoughts**: Still need to back it all up.
+
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com/conversion
+
 ### Day 23: January 30, 2022
 
-**Today's Progress**: Yippeee! The response page works. i found some code on github that helped me work it out. I had to create a new template for the results, then render_template that - and then include the result=result in that. I should now be able to do the same with the other tutorial code and then, eventually, my own code. Yay.
+**Today's Progress**: Yippeee! The response page works. i found some code on github that helped me work it out. I had to create a new template for the results, then render_template that - and then include the result=result in that. I've now done 'mode', too, and should be able to do the same with the other tutorial code and then, eventually, my own code. Yay.
 
-**Thoughts**: I'm a bit slow of brain, but get there :-) I think I need to sort out the templates and have a 'base', but it's working for now and I'm afraid to change it!
+**Thoughts**: I'm a bit slow of brain, but get there :-) I think I need to sort out the templates and have a 'base', but it's working for now and I'm afraid to change it! I also need to back up this code to github. Maybe I can do that this afternoon.
 
 **Link to work:** http://gilliancodes.eu.pythonanywhere.com/sum
 
