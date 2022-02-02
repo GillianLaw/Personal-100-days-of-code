@@ -1,5 +1,21 @@
 s# 100 Days Of Code - Log
 
+### Day 26: February 2, 2022
+
+**Today's Progress**: Managed to get the database/ scratchpas code working
+
+**Thoughts**: I ended up swearing a lot! And still need to back it all up. But still - progress.
+
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com
+
+### Day 25: February 1, 2022
+
+**Today's Progress**: Nothing is working today - I think I'm too tired!
+
+**Thoughts**: Still need to back it all up.
+
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com/conversion
+
 ### Day 24: January 31, 2022
 
 **Today's Progress**: Conversion page done. It should be easier but each one is hard! I set up a very basic base.html too - something to play with in future.
@@ -55,7 +71,7 @@ I've also been trying to do more on AoC and getting nowhere. It's a bit dispirit
 
 **Thoughts**: It's been a tough week, lost a friend. But I'm still trying.
 
-**Link to work:** http://gilliancodes.eu.pythonanywhere.com
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com/home
 
 ### Day 17: January 22, 2022
 
