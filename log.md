@@ -1,6 +1,12 @@
 s# 100 Days Of Code - Log
 
-### Day 26: February 2, 2022
+### Day 27: February 3, 2022
+
+**Today's Progress**: Improved the database/ scratchpad code so that users have to log in - and noone can come along and just add comments! There's more to do in the tutorial and I will work through it, but maybe it can wait - I ought to work on posting my own code.
+
+**Thoughts**: I'm a bit afraid of trying this with my own code. But I've made a start! I'll have to split out the new passwords and finding them, I think. 
+
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com
 
 **Today's Progress**: Managed to get the database/ scratchpas code working
 
