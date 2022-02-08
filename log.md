@@ -1,10 +1,31 @@
 s# 100 Days Of Code - Log
 
+
+### Day 30: February 8, 2022
+
+**Today's Progress**: Bit of regex tutorial - no time for anything else due to flat hunting!
+
+**Thoughts**: I do love regex :-)
+
+### Day 29: February 6, 2022
+
+**Today's Progress**: It's been a frustrating day! I'm so close, i feel, but my password generator won;t work - and that's having stripped lots of functionality. I'll have to keep trying.
+
+**Thoughts**: ....
+
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com/passgen
+
+### Day 28: February 5, 2022
+
+**Today's Progress**: I don;t have much time this morning so I've been tidying my flask_app so I can understand it better, and planning ahead what to do next.
+
+**Thoughts**: I want to work on some 'interview challenges', both for learning and for any future interviews. I will create a page on my site that lists useful code and concepts as a sort of crib sheet. I could just do it as a file in PythonAnywhere? As long as I can remember either the password or the site url, all fine!
+
 ### Day 27: February 3, 2022
 
 **Today's Progress**: Improved the database/ scratchpad code so that users have to log in - and noone can come along and just add comments! There's more to do in the tutorial and I will work through it, but maybe it can wait - I ought to work on posting my own code.
 
-**Thoughts**: I'm a bit afraid of trying this with my own code. But I've made a start! I'll have to split out the new passwords and finding them, I think. 
+**Thoughts**: I'm a bit afraid of trying this with my own code. But I've made a start! I'll have to split out the new passwords and finding them, I think.
 
 **Link to work:** http://gilliancodes.eu.pythonanywhere.com
 
