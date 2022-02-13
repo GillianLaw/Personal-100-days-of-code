@@ -1,5 +1,12 @@
 s# 100 Days Of Code - Log
 
+### Day 31: February 13, 2022
+
+**Today's Progress**: A few days off, too busy - but I'm still stumped on this one.
+
+**Thoughts**: I think I'm too hungover for code! 
+
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com/passgen
 
 ### Day 30: February 8, 2022
 
