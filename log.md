@@ -1,10 +1,34 @@
 s# 100 Days Of Code - Log
 
+### Day 34: February 19, 2022
+
+**Today's Progress**: Group capture, find and replace in regex on Udemy course
+
+**Thoughts**:
+
+**Link to work:**
+
+### Day 33: February 16, 2022
+
+**Today's Progress**: Studying POSIX extended set of regex on Udemy course
+
+**Thoughts**: I do like regex...
+
+**Link to work:**
+
+### Day 32: February 15, 2022
+
+**Today's Progress**: Nothing. Changing things, back and forth, no luck.
+
+**Thoughts**: I need to give up on this and do something else for a while!
+
+**Link to work:** http://gilliancodes.eu.pythonanywhere.com/passgen
+
 ### Day 31: February 13, 2022
 
 **Today's Progress**: A few days off, too busy - but I'm still stumped on this one.
 
-**Thoughts**: I think I'm too hungover for code! 
+**Thoughts**: I think I'm too hungover for code!
 
 **Link to work:** http://gilliancodes.eu.pythonanywhere.com/passgen
 
