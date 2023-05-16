@@ -1,5 +1,28 @@
 s# 100 Days Of Code - Log
 
+### May 16, 2023
+
+Picking up this log a year later... it's not that I've been doing 
+nothing, i just kind of forgot about Github! I'm busy studying to 
+prepare for Microsoft Ecole IA by Simplon (got to get the name right!)
+that starts in September. But I should get back on the portfolio site too
+
+### Day 36: March 12, 2022
+
+**Today's Progress**: Learning to use anvil - it looks pretty useful
+
+**Thoughts**: Maybe this is a better solution for showing my work?
+
+**Link to work:**
+
+### Day 35: February 21, 2022
+
+**Today's Progress**: Going back over numpy and pandas
+
+**Thoughts**:
+
+**Link to work:**
+
 ### Day 34: February 19, 2022
 
 **Today's Progress**: Group capture, find and replace in regex on Udemy course
