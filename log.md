@@ -1,18 +1,26 @@
 s# 100 Days Of Code - Log
 
-### May 16, 2023
-
-Picking up this log a year later... it's not that I've been doing 
-nothing, i just kind of forgot about Github! I'm busy studying to 
-prepare for Microsoft Ecole IA by Simplon (got to get the name right!)
-that starts in September. But I should get back on the portfolio site too
+### Day ...37, I guess? Or day 1, again. May 16, 2023
 
 **Today's Progress**: re-learning how to use github! Authentication 
 tokens are the biggest pain in the arse and I went round in a LOT of 
 circles working that out
+BUT it's working, and I'm uploading html versions on my ML course notes,
+so that I can access them from anywhere if I need them 
+I worked out - finally - how to view the html files from github, as long as
+githack keeps working. 
+I forget the buzz of just getting things to work!
 
-**Thoughts**: Anvil never did work out - maybe I shoudl go back and 
+**Thoughts** Picking up this log a year later... it's not that I've been doing
+nothing, i just kind of forgot about Github! I'm busy studying to
+prepare for Microsoft Ecole IA by Simplon (got to get the name right!)
+that starts in September. But I should get back on the portfolio site too
+Anvil never did work out - maybe I should go back and 
 have a look. 
+
+**Links to work:**
+https://github.com/GillianLaw/AI-and-ML-Masterclass-notes/blob/master/README.md
+
 
 ### Day 36: March 12, 2022
 
