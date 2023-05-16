@@ -7,6 +7,13 @@ nothing, i just kind of forgot about Github! I'm busy studying to
 prepare for Microsoft Ecole IA by Simplon (got to get the name right!)
 that starts in September. But I should get back on the portfolio site too
 
+**Today's Progress**: re-learning how to use github! Authentication 
+tokens are the biggest pain in the arse and I went round in a LOT of 
+circles working that out
+
+**Thoughts**: Anvil never did work out - maybe I shoudl go back and 
+have a look. 
+
 ### Day 36: March 12, 2022
 
 **Today's Progress**: Learning to use anvil - it looks pretty useful
