@@ -1,5 +1,15 @@
 s# 100 Days Of Code - Log
 
+### May 17, 2023
+
+**Today's Progress** Studying Data Structures and Algorithms, recursions and Big O.
+https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/
+
+**Thoughts**
+I've never really thought much about memory use and time. I mean, 
+I was aware it was a 'thing', but when you;re just learning it feels a bit 
+distant and irrelevant
+
 ### Day ...37, I guess? Or day 1, again. May 16, 2023
 
 **Today's Progress**: re-learning how to use github! Authentication 
