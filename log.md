@@ -1,5 +1,11 @@
 s# 100 Days Of Code - Log
 
+### May 18, 2023
+
+**Today's progress** Tidying up github and trying to make it better represent my work. 
+Now I should create something new to add to it!
+
+
 ### May 17, 2023
 
 **Today's Progress** Studying Data Structures and Algorithms, recursions and Big O.
