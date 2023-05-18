@@ -5,6 +5,13 @@ s# 100 Days Of Code - Log
 **Today's progress** Tidying up github and trying to make it better represent my work. 
 Now I should create something new to add to it!
 
+I've been playing with some Marseille city data and trying to analyse it. 
+I looked at data from the Opera and other theatres, and also popular
+children's names
+
+**Thoughts** It's a lot harder in real life than following tutorials...
+And I'm not sure there's that much I can do with it. 
+Maybe I can play with cufflinks? Anyway, I've learned plenty this morning. 
 
 ### May 17, 2023
 
