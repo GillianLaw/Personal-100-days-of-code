@@ -1,5 +1,19 @@
 s# 100 Days Of Code - Log
 
+### May 19, 2023
+
+**Today's progress** I have merged Marseille data sets on trottinettes, 
+merged columns, and then created a completely fucked up table out of them. 
+I don't know where I've gone wrong - I'll think about it...
+
+**Thoughts**
+Part of the problem has to be the giant 'date' numbers I created. 
+But there's more than that
+
+**Links to work:**
+https://github.com/GillianLaw/MarseilleCityData/blob/main/trottinettes_analysis.ipynb
+
+
 ### May 18, 2023
 
 **Today's progress** Tidying up github and trying to make it better represent my work. 
