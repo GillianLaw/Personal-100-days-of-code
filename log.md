@@ -1,5 +1,16 @@
 s# 100 Days Of Code - Log
 
+### May 21, 2023
+
+**Today's progress**
+Worked on the Natural Language Processing project in the Udemy course 
+I'm following
+
+**Thoughts**
+I get stuck a lot. It's frustrating. 
+I'm getting better at reading documentation, though.
+
+
 ### May 19, 2023
 
 **Today's progress** I have merged Marseille data sets on trottinettes, 
