@@ -1,5 +1,13 @@
 s# 100 Days Of Code - Log
 
+### May 22, 2013
+
+**Today's progress**
+Carrying on with re-viewing my ML course. 
+
+**Thoughts**
+Tensorflow doesn't work with Windows machines?!
+
 ### May 21, 2023
 
 **Today's progress**
