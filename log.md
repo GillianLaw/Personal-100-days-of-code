@@ -1,9 +1,22 @@
 s# 100 Days Of Code - Log
 
+### May 23, 2013
+
+**Today's progress**
+Not much time today. Listening to Tim Buchalka talking about documenting code - 
+
+**Thoughts**
+his point that writing the doc string *before* you code helps you think 
+about what you want to do is interesting. Good thinking...
+
 ### May 22, 2013
 
 **Today's progress**
-Carrying on with re-viewing my ML course. 
+Carrying on with re-viewing my ML course. Perceptrons...introduced 1958!
+AI winter in the 70s
+Tensor of information - an n-dimensional matrix. So x within a neural network is a 
+n-dimensional matrix?
+rectified linear unit - ReLu
 
 **Thoughts**
 Tensorflow doesn't work with Windows machines?!
