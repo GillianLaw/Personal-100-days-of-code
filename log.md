@@ -1,5 +1,17 @@
 s# 100 Days Of Code - Log
 
+### May 30, 2013
+
+**Today's progress**
+Looking at cost functions and gradient descent, Adam - and now back propagation. 
+Back propagation is 'probably the hardest part of the entire theoretical 
+deep learning process' - because of the calculus and notation involved.
+great, can't wait :-/
+BUT - don't need to do the calculus yourself, the code will do it..
+
+Moving on to Tensorflow and Keras 
+
+
 ### May 23, 2013
 
 **Today's progress**
