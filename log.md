@@ -1,5 +1,11 @@
 s# 100 Days Of Code - Log
 
+### May 31, 2013
+
+**Today's progress**
+More keras - and also going over the basics of dictionaries: I'm going back over the
+basics. 
+
 ### May 30, 2013
 
 **Today's progress**
