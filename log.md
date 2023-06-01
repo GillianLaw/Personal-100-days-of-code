@@ -1,12 +1,18 @@
 s# 100 Days Of Code - Log
 
-### May 31, 2013
+### June 1, 2023
+
+**Today's progress**
+Gone over some dictionary stuff - using dictionaries together, using .setdefault
+Also about to start a test/ project on keras - looking forward to it
+
+### May 31, 2023
 
 **Today's progress**
 More keras - and also going over the basics of dictionaries: I'm going back over the
 basics. 
 
-### May 30, 2013
+### May 30, 2023
 
 **Today's progress**
 Looking at cost functions and gradient descent, Adam - and now back propagation. 
@@ -18,7 +24,7 @@ BUT - don't need to do the calculus yourself, the code will do it..
 Moving on to Tensorflow and Keras 
 
 
-### May 23, 2013
+### May 23, 2023
 
 **Today's progress**
 Not much time today. Listening to Tim Buchalka talking about documenting code - 
@@ -27,7 +33,7 @@ Not much time today. Listening to Tim Buchalka talking about documenting code -
 his point that writing the doc string *before* you code helps you think 
 about what you want to do is interesting. Good thinking...
 
-### May 22, 2013
+### May 22, 2023
 
 **Today's progress**
 Carrying on with re-viewing my ML course. Perceptrons...introduced 1958!
