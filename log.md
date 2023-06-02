@@ -1,10 +1,18 @@
 s# 100 Days Of Code - Log
 
+## June 2, 2023
+
+**Today's progress**
+A bit of an intense morning working through this project, but learning a lot. 
+So far it's just been visualisations and cleaning data, but I need the practice, 
+it's good doing it for real. 
+
 ### June 1, 2023
 
 **Today's progress**
 Gone over some dictionary stuff - using dictionaries together, using .setdefault
-Also about to start a test/ project on keras - looking forward to it
+Also about to start a test/ project on keras - looking forward to it. 
+Later - I've done a good part of the project and I'm enjoying it and learning a lot. 
 
 ### May 31, 2023
 
