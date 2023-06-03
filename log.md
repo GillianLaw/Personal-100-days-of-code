@@ -1,5 +1,16 @@
 s# 100 Days Of Code - Log
 
+## June 3, 2023
+
+**Today's progress**
+Saturday, so I just messed around a little, trying out a challenge someone was 
+asking about on Reddit - just keeping my brain going and practising working
+with dictionaries. And adding documentation! 
+
+**Links to work:**
+https://github.com/GillianLaw/Codewars-/blob/main/dict_replace.py
+
+
 ## June 2, 2023
 
 **Today's progress**
