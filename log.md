@@ -1,5 +1,12 @@
 s# 100 Days Of Code - Log
 
+## June 4, 2023
+
+**Today's progress**
+I've been trying a codewars kata but I think the maths defeated me - I'm looking 
+at the solutions now and I'm really none the wiser. 
+I'll spend a bit of time trying to understand. 
+
 ## June 3, 2023
 
 **Today's progress**
