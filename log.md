@@ -7,6 +7,23 @@ I've been trying a codewars kata but I think the maths defeated me - I'm looking
 at the solutions now and I'm really none the wiser. 
 I'll spend a bit of time trying to understand. 
 
+I've found one Chinese guy with great chinese documentation that might help me 
+make sense of it. He's using Itertools.combinations() - in fact, everyone is. 
+
+"Combinatoric Generators are those iterators that are used to simplify 
+combinatorial constructs such as permutations, combinations, and Cartesian products"
+
+"itertools.combinations() provides us with all the possible tuples a sequence or 
+set of numbers or letters used in the iterator and the elements are assumed to be 
+unique on the basis of their positions which are distinct for all elements. "
+
+So it pulls out all unique items and gives you all possible combinations of those
+- and you can set the size of the combination, so it's not necessarily 'all'
+the items. Huh. 
+https://www.geeksforgeeks.org/python-itertools-combinations-function/
+  
+
+
 ## June 3, 2023
 
 **Today's progress**
