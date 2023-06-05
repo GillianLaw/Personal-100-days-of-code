@@ -1,5 +1,11 @@
 s# 100 Days Of Code - Log
 
+## June 5, 2023
+
+**Today's progress**
+Worked through the keras notebook. Learned a lot, got stuck on quite a lot! 
+Looking forward to watching the videos to understand more 
+
 ## June 4, 2023
 
 **Today's progress**
