@@ -1,5 +1,13 @@
 s# 100 Days Of Code - Log
 
+## June 7, 2023
+
+**Today's progress**
+Finished working through the keras project - I enjoyed doing it. Now
+looking at tensorboard dashboard. 
+Oh, and now moving on to Big Data - Hadoop, Spark. I'm looking forward that that. 
+I'm not sure I want to sign up to AWS though. I guess maybe?
+
 ## June 5, 2023
 
 **Today's progress**
