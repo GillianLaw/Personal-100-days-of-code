@@ -3,6 +3,19 @@ s# 100 Days Of Code - Log
 ## June 7, 2023
 
 **Today's progress**
+Well! I finished going over the Machine Learning course on Udemy, for the second time. 
+I've also signed up to re-do (well, tr-try) Dr Chuck's django class. I see we're 
+being asked to prepare and study a bit of django, and we've been given a video link
+but I think this will be a lot better. 
+
+I also see all the work I've done on Flask within Python Anywhere- 
+I'd kind of forgotten I did all that! 
+I'll need to look over it. 
+
+
+## June 7, 2023
+
+**Today's progress**
 Finished working through the keras project - I enjoyed doing it. Now
 looking at tensorboard dashboard. 
 Oh, and now moving on to Big Data - Hadoop, Spark. I'm looking forward that that. 
