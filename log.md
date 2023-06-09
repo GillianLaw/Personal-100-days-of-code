@@ -1,6 +1,11 @@
 s# 100 Days Of Code - Log
 
-## June 7, 2023
+## June 9, 2023
+
+**Today's progress**
+Dr Chuck going over the basics of server browser communication
+
+## June 8, 2023
 
 **Today's progress**
 Well! I finished going over the Machine Learning course on Udemy, for the second time. 
