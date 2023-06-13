@@ -1,5 +1,12 @@
 s# 100 Days Of Code - Log
 
+## June 13, 2023
+I'm really geting into the django course, though it had me scratching my head 
+yesterday. 
+Dr Chuck was so good on the Python for everyone course but less so here
+
+**Today's progress**
+
 ## June 9, 2023
 
 **Today's progress**
