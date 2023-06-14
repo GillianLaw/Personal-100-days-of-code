@@ -1,11 +1,20 @@
 s# 100 Days Of Code - Log
 
+## June 14, 2023
+**Today's progress**
+Learning about makemigrate and migration
+It's a strange feeling doing this course because I've done some of it before,
+two years ago - but I understood so little then, I had to give up. 
+I don't think I even really grasped how it related to SQL, I just kind of
+stumbled along trying to follow directions. And the directions are vague, 
+to say the least.
+We'll see how it goes, this time! 
+
 ## June 13, 2023
-I'm really geting into the django course, though it had me scratching my head 
+**Today's progress**
+I'm really getting into the django course, though it had me scratching my head 
 yesterday. 
 Dr Chuck was so good on the Python for everyone course but less so here
-
-**Today's progress**
 
 ## June 9, 2023
 
