@@ -1,5 +1,21 @@
 s# 100 Days Of Code - Log
 
+## June 16, 2023
+**Today's progress**
+I really want an overall picture of Django as I always feel like I'm 
+floundering a bit - 
+okay, so for this bit I work in the bashconsole, and this in the shell 
+but - why? How do I know what to use?
+And why can I sometimes do things directly in the Admin page - I could add
+a question to my polls app there, but had to go to the console to add
+answers. I'm sure there's a logic to it but nowhere seems to lay it out
+in a way that makes sense to my brain.
+I understand that doing things in the console means you don't have to 
+adapt the SQL for different databases. That makes sense. 
+I could just push forward with the course but I feel I need firmer 
+ground underfoot before I do more. 
+
+
 ## June 14, 2023
 **Today's progress**
 Learning about makemigrate and migration
