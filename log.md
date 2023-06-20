@@ -1,11 +1,16 @@
 s# 100 Days Of Code - Log
 
+## June 20, 2023
+**Today's progress**
+Getting through the django course nicely. 
+
 ## June 19, 2023
 **Today's progress**
 I found a great explainor that's helping me get a clearer picture of the 
 django framework and understand why some work is done in the console
 and others within the files - or even on the admin page: 
 https://masteringdjango.com/django-tutorials/beginner-lesson-2-how-django-works/
+Thanks, Big Nige!
 
 ## June 16, 2023
 **Today's progress**
