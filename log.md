@@ -1,5 +1,10 @@
 s# 100 Days Of Code - Log
 
+## June 23, 2023
+**Today's progress**
+Not Python related but I'm going to be experimenting with iMovie today,
+and YouTube..
+
 ## June 20, 2023
 **Today's progress**
 Getting through the django course nicely. 
