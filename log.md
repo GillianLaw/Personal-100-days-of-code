@@ -4,6 +4,10 @@ s# 100 Days Of Code - Log
 **Today's progress**
 Not Python related but I'm going to be experimenting with iMovie today,
 and YouTube..
+Wow, and it worked! The video is a bit clunky but it worked out well enough
+
+**Links to work:**
+https://www.youtube.com/watch?v=Fstpt-NBSSI
 
 ## June 20, 2023
 **Today's progress**
