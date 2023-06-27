@@ -1,5 +1,14 @@
 s# 100 Days Of Code - Log
 
+## June 27, 2023
+**Today's progress**
+I'm stuck. I've got sooo far with the latest django test and yet the last piece 
+... the wrong form is appearing on a page and that seems like something
+I should be able to fix, but I've gone round in circles. 
+
+**Links to work**
+https://django-gilliancodes.eu.pythonanywhere.com/autos/main/create/
+
 ## June 23, 2023
 **Today's progress**
 Not Python related but I'm going to be experimenting with iMovie today,
