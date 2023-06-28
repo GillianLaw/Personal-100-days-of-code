@@ -1,5 +1,12 @@
 s# 100 Days Of Code - Log
 
+## June 28, 2023
+**Today's progress**
+Boy. Today's assignment is a bit complex and so badly explained. 
+I understand that the point is to learn but to be so at sea is no good. 
+I've tried to add 'Cats' to the site and managed to mess up lots,
+I think the cats and cars are all muddled up, which is quite a thought.
+
 ## June 27, 2023
 **Today's progress**
 I'm stuck. I've got sooo far with the latest django test and yet the last piece 
