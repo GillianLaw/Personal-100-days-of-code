@@ -1,5 +1,12 @@
 s# 100 Days Of Code - Log
 
+## July 6, 2023
+**Today's progress**
+I'm going back over my Python studies now - I want to re-do everything before going
+on holiday in August
+Oh, and I sorted out the django cats! 
+Then they got muddled again when I added new pages - hopefully I can sort them out!
+
 ## June 28, 2023
 **Today's progress**
 Boy. Today's assignment is a bit complex and so badly explained. 
