@@ -1,5 +1,9 @@
 s# 100 Days Of Code - Log
 
+## July 7, 2023
+**Today's progress**
+Getters and setters, circular references - it's good to go over all this
+
 ## July 6, 2023
 **Today's progress**
 I'm going back over my Python studies now - I want to re-do everything before going
