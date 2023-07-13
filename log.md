@@ -1,5 +1,10 @@
 s# 100 Days Of Code - Log
 
+## July 13, 2023
+**Today's progress**
+Going back over lambdas and conditional expressions today. Almost finished 
+with the Tim Buchalka Python Masterclass Udemy course - it's been really good. 
+
 ## July 7, 2023
 **Today's progress**
 Getters and setters, circular references - it's good to go over all this
