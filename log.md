@@ -1,5 +1,10 @@
 s# 100 Days Of Code - Log
 
+## July 14, 2023 - Fête Nationale! Vive la France! 
+**Today's progress**
+I think I finally understand if __name__ = "__main__"! 
+And a bit more about global and local scope
+
 ## July 13, 2023
 **Today's progress**
 Going back over lambdas and conditional expressions today. Almost finished 
