@@ -1,5 +1,12 @@
 s# 100 Days Of Code - Log
 
+## July 17, 2023 
+**Today's progress**
+I've been enjoying doing numpy challenges on HackerRank
+(I say that because my code just worked - there were 
+plenty of points where I was not enjoying it...)
+I'm learning a lot. 
+
 ## July 14, 2023 - Fête Nationale! Vive la France! 
 **Today's progress**
 I think I finally understand if __name__ = "__main__"! 
