@@ -1,5 +1,12 @@
 s# 100 Days Of Code - Log
 
+## July 17, 2023
+**Today's progress**
+Some good pandas workshops on Kaggle
+Now i'm waiting to start an APIs workshop with Le Wagon...
+API workshop was okay, I need to play a bit with it - Zapier looks
+interesting
+
 ## July 17, 2023 
 **Today's progress**
 I've been enjoying doing numpy challenges on HackerRank
