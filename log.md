@@ -1,6 +1,11 @@
 s# 100 Days Of Code - Log
 
-## July 17, 2023
+## July 19, 2023
+**Today's progress**
+Good Le Wagon video on git and github - I muddle through but don't
+really know what I'm doing, so it's good to learn! 
+
+## July 18, 2023
 **Today's progress**
 Some good pandas workshops on Kaggle
 Now i'm waiting to start an APIs workshop with Le Wagon...
