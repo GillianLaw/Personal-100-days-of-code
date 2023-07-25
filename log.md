@@ -1,5 +1,9 @@
 s# 100 Days Of Code - Log
 
+## July 25, 2023
+**Today's progress**
+Stats! Learning statistics with StatQuest
+
 ## July 19, 2023
 **Today's progress**
 Good Le Wagon video on git and github - I muddle through but don't
