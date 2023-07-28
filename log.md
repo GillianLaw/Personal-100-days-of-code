@@ -1,5 +1,9 @@
 s# 100 Days Of Code - Log
 
+## July 28, 2023
+**Today's progress**
+Statistics is getting harder! 
+
 ## July 25, 2023
 **Today's progress**
 Stats! Learning statistics with StatQuest
